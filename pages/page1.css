@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: rgb(34, 50, 64);
+    background-color: #A0937D;
     height: 7rem;
 }
 
@@ -24,7 +24,7 @@ header {
 }
 
 .title1 {
-    background-color: rgb(52, 115, 85);
+    background-color: #E7D4B5;
     padding: 1rem;
 }
 
@@ -36,7 +36,7 @@ header {
 }
 
 .evidencies {
-    background-color: rgb(96, 191, 129);
+    background-color:#B6C7AA;
     padding: 5rem;
 }
 
@@ -70,7 +70,7 @@ footer {
     padding-right: 10rem;
     justify-content: space-between;
     display: flex;
-    background-color: rgb(34, 50, 64);
+    background-color: #A0937D;
 }
 
 .copy {
